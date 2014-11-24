@@ -1,0 +1,9 @@
+<?xml version="1.0" ?>
+<repositories version="1.0">
+ <repo priority="50" quality="experimental" status="unofficial">
+  <name>alin-ebuilds-overlay</name>
+  <description>Unofficial ebuilds gathered by Alin Dobre in a single repository</description>
+  <homepage>https://github.com/alindobre/alin-ebuilds-overlay</homepage>
+  <source type="git">https://github.com/alindobre/alin-ebuilds-overlay</source>
+ </repo>
+</repositories>
